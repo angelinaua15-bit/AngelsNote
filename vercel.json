@@ -1,0 +1,6 @@
+{
+  "regions": ["fra1"],
+  "functions": {
+    "api/*.py": { "maxDuration": 30 }
+  }
+}
